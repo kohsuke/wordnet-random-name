@@ -1,4 +1,4 @@
-package ord.kohsuke.randname;
+package org.kohsuke.randname;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -13,14 +13,16 @@ public class Dictionary {
     private List<String> nouns = new ArrayList<String>();
     private List<String> adjectives = new ArrayList<String>();
 
-    /**
-     * Sufficiently big prime that's bigger than nouns*adjectives
-     */
     private final int prime;
 
-    public Dictionary() throws IOException {
-        load("a.txt", adjectives);
-        load("n.txt", nouns);
+    public Dictionary() {
+        try {
+            load("a.txt", adjectives);
+            load("n.txt", nouns);
+        } catch (IOException e) {
+            throw new Error(e);
+        }
+
         int combo = size();
 
         int primeCombo = 2;
@@ -38,10 +40,26 @@ public class Dictionary {
         return nouns.size()*adjectives.size();
     }
 
+    /**
+     * Sufficiently big prime that's bigger than {@link #size()}
+     */
+    public int getPrime() {
+        return prime;
+    }
+
+    public String word(int i) {
+        int a = i%adjectives.size();
+        int n = i/adjectives.size();
+
+        return adjectives.get(a)+"_"+nouns.get(n);
+    }
+
     private void load(String name, List<String> col) throws IOException {
         BufferedReader r = new BufferedReader(new InputStreamReader(getClass().getResourceAsStream(name),"US-ASCII"));
         String line;
         while ((line=r.readLine())!=null)
             col.add(line);
     }
+
+    static final Dictionary INSTANCE = new Dictionary();
 }
