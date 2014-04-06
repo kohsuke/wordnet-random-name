@@ -7,6 +7,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
+ * Dictionary od adjectives and nouns.
+ *
  * @author Kohsuke Kawaguchi
  */
 public class Dictionary {
