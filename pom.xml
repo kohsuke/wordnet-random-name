@@ -7,7 +7,7 @@
   </parent>
 
   <artifactId>wordnet-random-name</artifactId>
-  <version>1.2-SNAPSHOT</version>
+  <version>1.2</version>
 
   <name>WordNet Random Name Generator</name>
   <url>http://github.com/kohsuke/wordnet-random-name/</url>
