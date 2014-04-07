@@ -17,7 +17,10 @@ public class RandomNameGenerator {
         this.pos = seed;
     }
 
-    public String next() {
+    public RandomNameGenerator() {
+        this((int) System.currentTimeMillis());
+    } 
+    public synchronized String next() {
         Dictionary d = Dictionary.INSTANCE;
         pos = Math.abs(pos+d.getPrime()) % d.size();
         return d.word(pos);

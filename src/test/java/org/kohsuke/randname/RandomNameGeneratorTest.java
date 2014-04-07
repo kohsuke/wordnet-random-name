@@ -25,4 +25,10 @@ public class RandomNameGeneratorTest extends Assert {
 
         assertFalse(s.add(r.next()));
     }
+
+    @Test
+    public void firstTen() {
+        for (int i=0; i<10; i++)
+            System.out.println(r.next());
+    }
 }
