@@ -3,7 +3,7 @@
   <parent>
     <groupId>org.kohsuke</groupId>
     <artifactId>pom</artifactId>
-    <version>6</version>
+    <version>7</version>
   </parent>
 
   <artifactId>wordnet-random-name</artifactId>
