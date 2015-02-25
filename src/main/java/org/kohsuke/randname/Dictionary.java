@@ -61,6 +61,7 @@ public class Dictionary {
         String line;
         while ((line=r.readLine())!=null)
             col.add(line);
+        r.close();
     }
 
     static final Dictionary INSTANCE = new Dictionary();
