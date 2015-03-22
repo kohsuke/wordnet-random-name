@@ -58,10 +58,13 @@ public class Dictionary {
 
     private void load(String name, List<String> col) throws IOException {
         BufferedReader r = new BufferedReader(new InputStreamReader(getClass().getResourceAsStream(name),"US-ASCII"));
-        String line;
-        while ((line=r.readLine())!=null)
-            col.add(line);
-        r.close();
+        try {
+            String line;
+            while ((line=r.readLine())!=null)
+                col.add(line);
+        } finally {
+            r.close();
+        }
     }
 
     static final Dictionary INSTANCE = new Dictionary();
