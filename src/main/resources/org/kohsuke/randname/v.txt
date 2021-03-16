@@ -16,7 +16,6 @@ afford
 age
 agree
 allow
-amputate
 amuse
 answer
 apologise
@@ -181,7 +180,6 @@ deteriorate
 develop
 devote
 dictate
-die
 differ
 dig
 dilute
@@ -205,7 +203,6 @@ dive
 divide
 divorce
 document
-dominate
 donate
 double
 doubt
@@ -217,7 +214,6 @@ drink
 drive
 drop
 drown
-drug
 dump
 eat
 eavesdrop
@@ -307,7 +303,6 @@ groan
 grow
 guard
 guess
-handicap
 hang
 happen
 harm
@@ -362,7 +357,6 @@ jump
 justify
 keep
 kick
-kill
 kiss
 knead
 kneel
@@ -466,7 +460,6 @@ please
 pledge
 plot
 plug
-poison
 polish
 pop
 post
@@ -642,7 +635,6 @@ spray
 spread
 square
 squeeze
-stab
 stain
 stamp
 stand
