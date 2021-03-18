@@ -1,9 +1,7 @@
 abbey
 ability
-abortion
 absence
 absorption
-abuse
 academy
 accent
 acceptance
@@ -41,11 +39,9 @@ age
 agency
 agenda
 agent
-agony
 agreement
 agriculture
 aid
-aids
 air
 aircraft
 airline
@@ -53,7 +49,6 @@ airport
 aisle
 alarm
 album
-alcohol
 allocation
 allowance
 ally
@@ -194,7 +189,6 @@ beneficiary
 benefit
 berry
 bet
-bible
 bike
 bill
 bin
@@ -204,10 +198,7 @@ bird
 birthday
 biscuit
 bishop
-bitch
 bite
-black
-blackmail
 blade
 blast
 block
@@ -270,7 +261,6 @@ burn
 bus
 bush
 business
-businessman
 butter
 butterfly
 button
@@ -288,7 +278,6 @@ calorie
 camera
 camp
 campaign
-cancer
 candidate
 candle
 cane
@@ -373,7 +362,6 @@ choice
 chord
 chorus
 church
-cigarette
 cinema
 circle
 circulation
@@ -428,7 +416,6 @@ commission
 commitment
 committee
 communication
-communist
 community
 compact
 company
@@ -536,7 +523,6 @@ credit_card
 creed
 crew
 cricket
-crime
 criminal
 crisis
 critic
@@ -546,7 +532,6 @@ cross
 crossing
 crowd
 crown
-cruelty
 crutch
 crystal
 cucumber
@@ -576,7 +561,6 @@ daylight
 deadline
 deal
 dealer
-death
 debate
 debt
 decade
@@ -665,7 +649,6 @@ district
 disturbance
 dividend
 division
-divorce
 doctor
 document
 dog
@@ -695,7 +678,6 @@ drink
 drive
 driver
 drop
-drug
 drum
 duck
 duke
@@ -816,7 +798,6 @@ fare
 farm
 farmer
 fashion
-fat
 father
 fault
 favor
@@ -961,7 +942,6 @@ glue
 goal
 goalkeeper
 goat
-god
 gold
 golf
 good
@@ -1038,7 +1018,6 @@ hen
 herb
 herd
 hero
-heroin
 hierarchy
 highlight
 hill
@@ -1186,7 +1165,6 @@ key
 kick
 kid
 kidney
-killer
 king
 kingdom
 kinship
@@ -1197,7 +1175,6 @@ knee
 knife
 knot
 knowledge
-koran
 label
 laboratory
 labour
@@ -1413,7 +1390,6 @@ movement
 mud
 mug
 multimedia
-murder
 muscle
 museum
 mushroom
@@ -1659,7 +1635,6 @@ praise
 prayer
 precedent
 precision
-predator
 predecessor
 preference
 prejudice
@@ -1752,8 +1727,6 @@ queue
 quota
 quotation
 rabbit
-race
-racism
 rack
 radiation
 radical
@@ -1851,7 +1824,6 @@ retailer
 retirement
 retreat
 return
-revenge
 reverse
 review
 revival
@@ -1864,7 +1836,6 @@ ribbon
 rice
 rider
 ridge
-rifle
 right
 right_wing
 ring
@@ -1898,7 +1869,6 @@ rule
 rumour
 runner
 rush
-sacrifice
 safety
 sail
 sailor
@@ -1965,7 +1935,6 @@ service
 session
 set
 settlement
-sex
 shade
 shadow
 shaft
@@ -2018,7 +1987,6 @@ skirt
 skull
 sky
 slab
-slave
 sleep
 sleeve
 slice
@@ -2134,7 +2102,6 @@ success
 suffering
 sugar
 suggestion
-suicide
 suit
 suite
 sulphur
@@ -2204,7 +2171,6 @@ tent
 term
 terminal
 terrace
-terrorist
 test
 text
 texture
@@ -2250,7 +2216,6 @@ tool
 tooth
 top
 torch
-torture
 touch
 tourism
 tourist
@@ -2310,7 +2275,6 @@ twin
 twist
 tycoon
 tyre
-ulcer
 umbrella
 uncertainty
 uncle
@@ -2324,7 +2288,6 @@ university
 unrest
 urge
 urgency
-urine
 use
 user
 vacuum
@@ -2358,7 +2321,6 @@ villa
 village
 villager
 violation
-virgin
 virtue
 virus
 vision
@@ -2407,8 +2369,6 @@ whale
 wheat
 wheel
 whip
-whisky
-white
 widow
 width
 wife
@@ -2419,7 +2379,6 @@ willpower
 win
 wind
 window
-wine
 wing
 winner
 winter
