@@ -50,7 +50,6 @@ become
 beg
 begin
 behave
-behead
 belong
 bend
 bet
@@ -342,7 +341,6 @@ injure
 insert
 insist
 inspire
-instal
 install
 insure
 intensify
@@ -494,7 +492,6 @@ quit
 quote
 race
 raise
-rape
 reach
 read
 realise
