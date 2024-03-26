@@ -202,8 +202,6 @@ bite
 blade
 blast
 block
-blood
-bloodshed
 blow
 blue
 blue_jean
@@ -753,7 +751,6 @@ excess
 exchange
 excitement
 excuse
-execution
 executive
 exemption
 exercise
@@ -1837,7 +1834,6 @@ rice
 rider
 ridge
 right
-right_wing
 ring
 riot
 rise
