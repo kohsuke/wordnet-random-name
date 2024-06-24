@@ -10,7 +10,6 @@ accessible
 accurate
 active
 acute
-addicted
 adequate
 aesthetic
 afraid
@@ -55,7 +54,6 @@ bitter
 bland
 blank
 blonde
-bloody
 blue
 bold
 brave
@@ -121,8 +119,6 @@ cute
 daily
 dangerous
 dark
-dead
-deadly
 decisive
 decorative
 deep
