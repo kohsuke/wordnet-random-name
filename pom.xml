@@ -12,6 +12,22 @@
   <name>WordNet Random Name Generator</name>
   <url>http://github.com/kohsuke/wordnet-random-name/</url>
 
+  <description>WordNet Random Name Generator</description>
+  <licenses>
+    <license>
+      <name>MIT license</name>
+      <url>http://www.opensource.org/licenses/mit-license.php</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>kohsuke</id>
+      <name>Kohsuke Kawaguchi</name>
+      <email>kk@kohsuke.org</email>
+    </developer>
+  </developers>
+
   <scm>
     <connection>scm:git:git@github.com/kohsuke/${project.artifactId}.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/kohsuke/${project.artifactId}.git</developerConnection>
